@@ -1,0 +1,15 @@
+# Ignorer l’environnement virtuel
+venv/
+
+# Ignorer les fichiers temporaires de VSCode
+.vscode/
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Node modules (React frontend)
+Frontend/frontend/node_modules/
+
+# .env file (si tu as un fichier avec des infos sensibles)
+*.env
